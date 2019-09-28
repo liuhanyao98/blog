@@ -25,9 +25,12 @@ description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my blog!
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: liuhanyao98
-github_username:  liuhanyao98
-facebook_username: hanyao.liu.758
+minima:
+  date_format: "%b %-d, %Y"
+  social_links:
+    twitter: liuhanyao98
+    github:  liuhanyao98
+    facebook: hanyao.liu.758
 # Build settings
 theme: minima
 plugins:
