@@ -1,29 +1,11 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Welcome to Hanyao's Blog!"
 date:   2019-09-27 17:51:53 -0700
 categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
+Hanyao graduated from Shanghai Jiao Tong Unversity in 2019 with a bachelor's degree in Computer Engineering and is currently in UCLA continuing her school life as a master student in Computer Science department.
 
-Jekyll requires blog post files to be named according to the following format:
+She is not a social media mania. Most of the time, She enjoys just feeling the life with her close friends and creating something new. They say, always embrace the future no matter how many obstacles ahead of us, what is awaiting us, and whether people in the future would consider us right or wrong. The most important thing to remember is to never forget who you are.
 
-`YEAR-MONTH-DAY-title.MARKUP`
-
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+![image-title-here](/Users/julieliu/Pictures/IMG_2272.JPG){:class="img-responsive"}
