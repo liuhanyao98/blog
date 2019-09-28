@@ -12,4 +12,4 @@ You can [get my resume](assets/Resume_HanyaoLiu.pdf) directly.
 
 
 
-<img src="assets/profile.jpeg" height="150" width="120">
+<img src="assets/profile.jpeg" height="180" width="120">
