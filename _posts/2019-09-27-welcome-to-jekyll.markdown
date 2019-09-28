@@ -8,4 +8,4 @@ Hanyao graduated from Shanghai Jiao Tong Unversity in 2019 with a bachelor's deg
 
 She is not a social media mania. Most of the time, She enjoys just feeling the life with her close friends and creating something new. They say, always embrace the future no matter how many obstacles ahead of us, what is awaiting us, and whether people in the future would consider us right or wrong. The most important thing to remember is to never forget who you are.
 
-![image-title-here](/Users/julieliu/Pictures/IMG_2272.JPG){:class="img-responsive"}
+![Picture of Me](/assets/profile.jpeg)
