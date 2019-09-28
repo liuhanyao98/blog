@@ -6,4 +6,4 @@ categories: jekyll update
 ---
 Hanyao graduated from Shanghai Jiao Tong Unversity in 2019 with a bachelor's degree in Computer Engineering and is currently in UCLA continuing her school life as a master student in Computer Science department.
 
-She is not a social media mania. Most of the time, She enjoys just feeling the life with her close friends and creating something new. They say, always embrace the future no matter how many obstacles ahead of us, what is awaiting us, and whether people in the future would consider us right or wrong. The most important thing to remember is to never forget who you are.
+She is not a social media mania. Most of the time, She enjoys just feeling the life with her close friends and creating something new. They say, always embrace the future no matter how many obstacles are ahead of us, what is awaiting us, and whether people in the future would consider us right or wrong. The most important thing to remember is to never forget who you are.
