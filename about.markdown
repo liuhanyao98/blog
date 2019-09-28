@@ -5,8 +5,8 @@ permalink: /about/
 ---
 
 This is Hanyao's blog. She wishes to write something as a daily hobby in the coming future, and always find happiness and peace in this turbulent life.
-You can find me at [Twitter](https://twitter.com/liuhanyao98) or [GitHub](https://github.com/liuhanyao98)
+You can find me at [Twitter](https://twitter.com/liuhanyao98) or [GitHub](https://github.com/liuhanyao98) or [LinkedIn](https://www.linkedin.com/in/hanyaoliu/)
 
-Hanyao graduated from Shanghai Jiao Tong Unversity in 2019 with a bachelor degree in Computer Engineering and is currently in UCLA continuing her school life as a master student in the computer science department.
+Hanyao graduated from Shanghai Jiao Tong Unversity in 2019 with a bachelor's degree in Computer Engineering and is currently in UCLA continuing her school life as a master student in Computer Science department.
 
 She is not a social media mania. Most of the time, She enjoys just feeling the life with her close friends and creating something new. They say, always embrace the future no matter how many obstacles ahead of us, what is awaiting us, and whether people in the future would consider us right or wrong. The most important thing to remember is to never forget who you are.
